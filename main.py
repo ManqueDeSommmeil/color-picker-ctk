@@ -5,7 +5,7 @@ import pyperclip
 root = ctk.CTk()
 root.geometry("750x600")
 root.title("Color Picker")
-root.iconbitmap('favicon.ico')
+root.iconbitmap('favicon.ico') # <a href="https://www.flaticon.com/fr/icones-gratuites/dessin" title="dessin icônes">Dessin icônes créées par Freepik - Flaticon</a>
 
 # Initial RGB values - British Racing Green
 r_value = [0]
